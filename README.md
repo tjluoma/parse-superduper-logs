@@ -1,7 +1,7 @@
 parse-superduper-logs
 =====================
 
-**Summary:** Parse SuperDuper Logs and send notifications (requires [po.sh](https://github.com/tjluoma/po.sh).)
+**Summary:** Parse SuperDuper Logs and send notifications (requires [posh](https://github.com/tjluoma/po.sh).)
 
 I have [SuperDuper][] set to run automatically on my [MacMiniColo][] which means that I might not notice when it runs, and some other Macs backup overnight. It’s _probably_ safe to assume that everything worked unless I see something went wrong, but when it comes to backups, I’d rather be sure.
 
